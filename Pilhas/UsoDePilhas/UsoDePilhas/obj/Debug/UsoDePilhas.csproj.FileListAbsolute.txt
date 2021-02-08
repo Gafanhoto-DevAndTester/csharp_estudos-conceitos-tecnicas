@@ -1,0 +1,14 @@
+C:\ProjetosC#\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\bin\Debug\UsoDePilhas.exe.config
+C:\ProjetosC#\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\bin\Debug\UsoDePilhas.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\bin\Debug\UsoDePilhas.pdb
+C:\ProjetosC#\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\obj\Debug\UsoDePilhas.csprojAssemblyReference.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\obj\Debug\UsoDePilhas.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\obj\Debug\UsoDePilhas.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\obj\Debug\UsoDePilhas.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\bin\Debug\UsoDePilhas.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\bin\Debug\UsoDePilhas.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\bin\Debug\UsoDePilhas.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\obj\Debug\UsoDePilhas.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\obj\Debug\UsoDePilhas.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\obj\Debug\UsoDePilhas.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas\obj\Debug\UsoDePilhas.pdb

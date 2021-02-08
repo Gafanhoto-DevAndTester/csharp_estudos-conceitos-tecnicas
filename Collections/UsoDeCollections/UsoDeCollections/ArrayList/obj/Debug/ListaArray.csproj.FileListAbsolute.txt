@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\ArrayList\bin\Debug\ArrayList.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\ArrayList\bin\Debug\ArrayList.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\ArrayList\bin\Debug\ArrayList.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\ArrayList\obj\Debug\ListaArray.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\ArrayList\obj\Debug\ListaArray.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\ArrayList\obj\Debug\ArrayList.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\ArrayList\obj\Debug\ArrayList.pdb

@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\Menus\Menus_Console\Menu_Console_3\bin\Debug\Menu_Console_3.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\Menus\Menus_Console\Menu_Console_3\bin\Debug\Menu_Console_3.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Menus\Menus_Console\Menu_Console_3\bin\Debug\Menu_Console_3.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Menus\Menus_Console\Menu_Console_3\obj\Debug\Menu_Console_3.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Menus\Menus_Console\Menu_Console_3\obj\Debug\Menu_Console_3.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Menus\Menus_Console\Menu_Console_3\obj\Debug\Menu_Console_3.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Menus\Menus_Console\Menu_Console_3\obj\Debug\Menu_Console_3.pdb

@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Pilha\bin\Debug\Pilha.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Pilha\bin\Debug\Pilha.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Pilha\bin\Debug\Pilha.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Pilha\obj\Debug\Pilha.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Pilha\obj\Debug\Pilha.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Pilha\obj\Debug\Pilha.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Pilha\obj\Debug\Pilha.pdb

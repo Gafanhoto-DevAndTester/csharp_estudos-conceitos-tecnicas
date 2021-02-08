@@ -1,0 +1,9 @@
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\Exemplo.Math\bin\Debug\netcoreapp2.1\Exemplo.Math.deps.json
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\Exemplo.Math\bin\Debug\netcoreapp2.1\Exemplo.Math.dll
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\Exemplo.Math\bin\Debug\netcoreapp2.1\Exemplo.Math.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\Exemplo.Math\obj\Debug\netcoreapp2.1\Exemplo.Math.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\Exemplo.Math\obj\Debug\netcoreapp2.1\Exemplo.Math.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\Exemplo.Math\obj\Debug\netcoreapp2.1\Exemplo.Math.AssemblyInfoInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\Exemplo.Math\obj\Debug\netcoreapp2.1\Exemplo.Math.AssemblyInfo.cs
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\Exemplo.Math\obj\Debug\netcoreapp2.1\Exemplo.Math.dll
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\Exemplo.Math\obj\Debug\netcoreapp2.1\Exemplo.Math.pdb

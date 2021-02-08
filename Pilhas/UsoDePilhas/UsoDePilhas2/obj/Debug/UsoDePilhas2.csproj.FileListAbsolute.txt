@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas2\bin\Debug\UsoDePilhas2.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas2\bin\Debug\UsoDePilhas2.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas2\bin\Debug\UsoDePilhas2.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas2\obj\Debug\UsoDePilhas2.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas2\obj\Debug\UsoDePilhas2.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas2\obj\Debug\UsoDePilhas2.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Pilhas\UsoDePilhas\UsoDePilhas2\obj\Debug\UsoDePilhas2.pdb

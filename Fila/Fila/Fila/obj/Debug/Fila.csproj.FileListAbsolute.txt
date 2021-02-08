@@ -1,0 +1,7 @@
+C:\ProjetosC#\EstudosConceitosTecnicas\Fila\Fila\Fila\bin\Debug\Fila.exe.config
+C:\ProjetosC#\EstudosConceitosTecnicas\Fila\Fila\Fila\bin\Debug\Fila.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Fila\Fila\Fila\bin\Debug\Fila.pdb
+C:\ProjetosC#\EstudosConceitosTecnicas\Fila\Fila\Fila\obj\Debug\Fila.csprojAssemblyReference.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Fila\Fila\Fila\obj\Debug\Fila.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Fila\Fila\Fila\obj\Debug\Fila.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Fila\Fila\Fila\obj\Debug\Fila.pdb

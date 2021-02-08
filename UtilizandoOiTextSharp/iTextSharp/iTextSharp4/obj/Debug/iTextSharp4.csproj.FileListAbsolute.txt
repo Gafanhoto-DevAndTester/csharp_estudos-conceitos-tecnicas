@@ -1,0 +1,11 @@
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\bin\Debug\iTextSharp4.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\bin\Debug\iTextSharp4.exe
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\bin\Debug\iTextSharp4.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\bin\Debug\BouncyCastle.Crypto.dll
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\bin\Debug\itextsharp.dll
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\bin\Debug\itextsharp.xml
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\obj\Debug\iTextSharp4.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\obj\Debug\iTextSharp4.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\obj\Debug\iTextSharp4.csproj.CopyComplete
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\obj\Debug\iTextSharp4.exe
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp4\obj\Debug\iTextSharp4.pdb

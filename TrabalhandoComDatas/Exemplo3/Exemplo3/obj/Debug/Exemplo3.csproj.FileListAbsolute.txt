@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\TrabalhandoComDatas\Exemplo3\Exemplo3\bin\Debug\Exemplo3.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\TrabalhandoComDatas\Exemplo3\Exemplo3\bin\Debug\Exemplo3.exe
+C:\projetos-cs\EstudosConceitosTecnicas\TrabalhandoComDatas\Exemplo3\Exemplo3\bin\Debug\Exemplo3.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\TrabalhandoComDatas\Exemplo3\Exemplo3\obj\Debug\Exemplo3.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\TrabalhandoComDatas\Exemplo3\Exemplo3\obj\Debug\Exemplo3.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\TrabalhandoComDatas\Exemplo3\Exemplo3\obj\Debug\Exemplo3.exe
+C:\projetos-cs\EstudosConceitosTecnicas\TrabalhandoComDatas\Exemplo3\Exemplo3\obj\Debug\Exemplo3.pdb

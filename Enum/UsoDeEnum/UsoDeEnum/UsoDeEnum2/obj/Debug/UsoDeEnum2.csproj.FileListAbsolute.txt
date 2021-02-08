@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\Enum\UsoDeEnum\UsoDeEnum\UsoDeEnum2\bin\Debug\UsoDeEnum2.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\Enum\UsoDeEnum\UsoDeEnum\UsoDeEnum2\bin\Debug\UsoDeEnum2.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Enum\UsoDeEnum\UsoDeEnum\UsoDeEnum2\bin\Debug\UsoDeEnum2.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Enum\UsoDeEnum\UsoDeEnum\UsoDeEnum2\obj\Debug\UsoDeEnum2.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Enum\UsoDeEnum\UsoDeEnum\UsoDeEnum2\obj\Debug\UsoDeEnum2.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Enum\UsoDeEnum\UsoDeEnum\UsoDeEnum2\obj\Debug\UsoDeEnum2.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Enum\UsoDeEnum\UsoDeEnum\UsoDeEnum2\obj\Debug\UsoDeEnum2.pdb

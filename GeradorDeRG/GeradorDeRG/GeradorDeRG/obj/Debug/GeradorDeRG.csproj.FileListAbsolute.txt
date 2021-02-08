@@ -1,0 +1,10 @@
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeRG\GeradorDeRG\GeradorDeRG\bin\Debug\GeradorDeRG.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeRG\GeradorDeRG\GeradorDeRG\bin\Debug\GeradorDeRG.exe
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeRG\GeradorDeRG\GeradorDeRG\bin\Debug\GeradorDeRG.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeRG\GeradorDeRG\GeradorDeRG\obj\Debug\GeradorDeRG.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeRG\GeradorDeRG\GeradorDeRG\obj\Debug\GeradorDeRG.Form1.resources
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeRG\GeradorDeRG\GeradorDeRG\obj\Debug\GeradorDeRG.Properties.Resources.resources
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeRG\GeradorDeRG\GeradorDeRG\obj\Debug\GeradorDeRG.csproj.GenerateResource.cache
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeRG\GeradorDeRG\GeradorDeRG\obj\Debug\GeradorDeRG.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeRG\GeradorDeRG\GeradorDeRG\obj\Debug\GeradorDeRG.exe
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeRG\GeradorDeRG\GeradorDeRG\obj\Debug\GeradorDeRG.pdb

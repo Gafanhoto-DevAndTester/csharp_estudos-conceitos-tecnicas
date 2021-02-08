@@ -1,0 +1,7 @@
+C:\ProjetosC#\EstudosConceitosTecnicas\Construtores\UsoDeConstrutores\UsoDeConstrutores\obj\Debug\UsoDeConstrutores.csprojAssemblyReference.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Construtores\UsoDeConstrutores\UsoDeConstrutores\obj\Debug\UsoDeConstrutores.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Construtores\UsoDeConstrutores\UsoDeConstrutores\bin\Debug\UsoDeConstrutores.exe.config
+C:\ProjetosC#\EstudosConceitosTecnicas\Construtores\UsoDeConstrutores\UsoDeConstrutores\bin\Debug\UsoDeConstrutores.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Construtores\UsoDeConstrutores\UsoDeConstrutores\bin\Debug\UsoDeConstrutores.pdb
+C:\ProjetosC#\EstudosConceitosTecnicas\Construtores\UsoDeConstrutores\UsoDeConstrutores\obj\Debug\UsoDeConstrutores.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Construtores\UsoDeConstrutores\UsoDeConstrutores\obj\Debug\UsoDeConstrutores.pdb

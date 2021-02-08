@@ -1,0 +1,7 @@
+C:\ProjetosC#\EstudosConceitosTecnicas\Looping\LoopingSolution\LoopingSolution\Loppings\bin\Debug\Loppings.exe.config
+C:\ProjetosC#\EstudosConceitosTecnicas\Looping\LoopingSolution\LoopingSolution\Loppings\bin\Debug\Loppings.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Looping\LoopingSolution\LoopingSolution\Loppings\bin\Debug\Loppings.pdb
+C:\ProjetosC#\EstudosConceitosTecnicas\Looping\LoopingSolution\LoopingSolution\Loppings\obj\Debug\Loopings.csprojAssemblyReference.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Looping\LoopingSolution\LoopingSolution\Loppings\obj\Debug\Loopings.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Looping\LoopingSolution\LoopingSolution\Loppings\obj\Debug\Loppings.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Looping\LoopingSolution\LoopingSolution\Loppings\obj\Debug\Loppings.pdb

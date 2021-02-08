@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\WriterReaderStream\WriterReaderStream\WriterReaderStream\bin\Debug\WriterReaderStream.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\WriterReaderStream\WriterReaderStream\WriterReaderStream\bin\Debug\WriterReaderStream.exe
+C:\projetos-cs\EstudosConceitosTecnicas\WriterReaderStream\WriterReaderStream\WriterReaderStream\bin\Debug\WriterReaderStream.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\WriterReaderStream\WriterReaderStream\WriterReaderStream\obj\Debug\WriterReaderStream.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\WriterReaderStream\WriterReaderStream\WriterReaderStream\obj\Debug\WriterReaderStream.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\WriterReaderStream\WriterReaderStream\WriterReaderStream\obj\Debug\WriterReaderStream.exe
+C:\projetos-cs\EstudosConceitosTecnicas\WriterReaderStream\WriterReaderStream\WriterReaderStream\obj\Debug\WriterReaderStream.pdb

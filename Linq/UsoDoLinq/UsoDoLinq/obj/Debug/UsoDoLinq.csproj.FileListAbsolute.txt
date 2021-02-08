@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\Linq\UsoDoLinq\UsoDoLinq\bin\Debug\UsoDoLinq.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\Linq\UsoDoLinq\UsoDoLinq\bin\Debug\UsoDoLinq.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Linq\UsoDoLinq\UsoDoLinq\bin\Debug\UsoDoLinq.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Linq\UsoDoLinq\UsoDoLinq\obj\Debug\UsoDoLinq.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Linq\UsoDoLinq\UsoDoLinq\obj\Debug\UsoDoLinq.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Linq\UsoDoLinq\UsoDoLinq\obj\Debug\UsoDoLinq.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Linq\UsoDoLinq\UsoDoLinq\obj\Debug\UsoDoLinq.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorDeRG", "GeradorDeRG\GeradorDeRG.csproj", "{920F094B-6FB4-413E-992B-6CD3D115598B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920F094B-6FB4-413E-992B-6CD3D115598B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920F094B-6FB4-413E-992B-6CD3D115598B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920F094B-6FB4-413E-992B-6CD3D115598B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920F094B-6FB4-413E-992B-6CD3D115598B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D52CD71-5DC0-487B-982A-0EF515DC1F99}
+	EndGlobalSection
+EndGlobal

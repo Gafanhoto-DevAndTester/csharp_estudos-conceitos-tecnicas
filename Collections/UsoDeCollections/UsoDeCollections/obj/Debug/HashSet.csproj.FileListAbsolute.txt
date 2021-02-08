@@ -1,0 +1,7 @@
+C:\ProjetosC#\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\bin\Debug\UsoDeCollections.exe.config
+C:\ProjetosC#\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\bin\Debug\UsoDeCollections.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\bin\Debug\UsoDeCollections.pdb
+C:\ProjetosC#\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\obj\Debug\HashSet.csprojAssemblyReference.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\obj\Debug\UsoDeCollections.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\obj\Debug\UsoDeCollections.pdb

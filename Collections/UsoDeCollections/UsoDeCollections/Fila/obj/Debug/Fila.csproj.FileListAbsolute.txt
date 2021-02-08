@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Fila\bin\Debug\Fila.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Fila\bin\Debug\Fila.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Fila\bin\Debug\Fila.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Fila\obj\Debug\Fila.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Fila\obj\Debug\Fila.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Fila\obj\Debug\Fila.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\Fila\obj\Debug\Fila.csprojAssemblyReference.cache

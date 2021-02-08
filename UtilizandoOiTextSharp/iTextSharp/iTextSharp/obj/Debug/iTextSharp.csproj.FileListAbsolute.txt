@@ -1,0 +1,17 @@
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\iTextSharp.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\iTextSharp.exe
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\iTextSharp.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\Common.Logging.Core.dll
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\Common.Logging.dll
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\itextsharp.dll
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\Common.Logging.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\Common.Logging.xml
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\Common.Logging.Core.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\Common.Logging.Core.xml
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\bin\Debug\itextsharp.xml
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\obj\Debug\iTextSharp.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\obj\Debug\iTextSharp.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\obj\Debug\iTextSharp.csproj.CopyComplete
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\obj\Debug\iTextSharp.exe
+C:\projetos-cs\EstudosConceitosTecnicas\UtilizandoOiTextSharp\iTextSharp\iTextSharp\obj\Debug\iTextSharp.pdb

@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Classes;
+
+namespace Polimorfismo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Instanciar Estagiario
+            Imposto objetoE = new Estagiario();
+            objetoE.valeAlimentacao(1000);
+            objetoE.valeTransporte(1000);
+            Console.WriteLine("------------------");
+            //Instanciar Gerente
+            Imposto objetoG = new Gerente();
+            objetoG.valeAlimentacao(5000);
+            objetoG.valeTransporte(5000);
+            Console.WriteLine("------------------");
+            //Instanciar Atendente
+            Imposto objetoA = new Atendente();
+            objetoA.valeAlimentacao(2000);
+            objetoA.valeTransporte(2000);
+            Console.WriteLine("------------------");
+        }
+    }
+}

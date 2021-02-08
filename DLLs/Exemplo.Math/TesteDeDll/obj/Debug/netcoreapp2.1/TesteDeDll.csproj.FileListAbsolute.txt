@@ -1,0 +1,14 @@
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\bin\Debug\netcoreapp2.1\TesteDeDll.deps.json
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\bin\Debug\netcoreapp2.1\TesteDeDll.runtimeconfig.json
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\bin\Debug\netcoreapp2.1\TesteDeDll.runtimeconfig.dev.json
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\bin\Debug\netcoreapp2.1\TesteDeDll.dll
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\bin\Debug\netcoreapp2.1\TesteDeDll.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\bin\Debug\netcoreapp2.1\Exemplo.Math.dll
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\bin\Debug\netcoreapp2.1\Exemplo.Math.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\obj\Debug\netcoreapp2.1\TesteDeDll.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\obj\Debug\netcoreapp2.1\TesteDeDll.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\obj\Debug\netcoreapp2.1\TesteDeDll.AssemblyInfoInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\obj\Debug\netcoreapp2.1\TesteDeDll.AssemblyInfo.cs
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\obj\Debug\netcoreapp2.1\TesteDeDll.csproj.CopyComplete
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\obj\Debug\netcoreapp2.1\TesteDeDll.dll
+C:\projetos-cs\EstudosConceitosTecnicas\DLLs\Exemplo.Math\TesteDeDll\obj\Debug\netcoreapp2.1\TesteDeDll.pdb

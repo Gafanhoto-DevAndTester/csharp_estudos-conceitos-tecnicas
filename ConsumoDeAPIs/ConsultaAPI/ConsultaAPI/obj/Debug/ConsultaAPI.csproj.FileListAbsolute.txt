@@ -1,0 +1,13 @@
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\bin\Debug\ConsultaAPI.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\bin\Debug\ConsultaAPI.exe
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\bin\Debug\ConsultaAPI.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\bin\Debug\Correios.dll
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\bin\Debug\Correios.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.FrmMain.resources
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.Properties.Resources.resources
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.GenerateResource.cache
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.CopyComplete
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.exe
+C:\projetos-cs\EstudosConceitosTecnicas\ConsumoDeAPIs\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsoDeEnum", "UsoDeEnum\UsoDeEnum.csproj", "{F741D20E-B226-4B3A-AF6F-E85B69013396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsoDeEnum2", "UsoDeEnum\UsoDeEnum2\UsoDeEnum2.csproj", "{8C3E185C-4D69-43E6-AD34-33264F79DFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F741D20E-B226-4B3A-AF6F-E85B69013396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F741D20E-B226-4B3A-AF6F-E85B69013396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F741D20E-B226-4B3A-AF6F-E85B69013396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F741D20E-B226-4B3A-AF6F-E85B69013396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3E185C-4D69-43E6-AD34-33264F79DFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3E185C-4D69-43E6-AD34-33264F79DFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3E185C-4D69-43E6-AD34-33264F79DFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3E185C-4D69-43E6-AD34-33264F79DFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7275C267-C289-45C4-9D79-2B4FF13CD5B5}
+	EndGlobalSection
+EndGlobal

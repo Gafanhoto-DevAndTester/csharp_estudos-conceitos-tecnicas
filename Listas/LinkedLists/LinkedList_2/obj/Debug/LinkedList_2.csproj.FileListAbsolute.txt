@@ -1,0 +1,6 @@
+C:\ProjetosC#\EstudosConceitosTecnicas\Listas\LinkedLists\LinkedList_2\bin\Debug\LinkedList_2.exe.config
+C:\ProjetosC#\EstudosConceitosTecnicas\Listas\LinkedLists\LinkedList_2\bin\Debug\LinkedList_2.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Listas\LinkedLists\LinkedList_2\bin\Debug\LinkedList_2.pdb
+C:\ProjetosC#\EstudosConceitosTecnicas\Listas\LinkedLists\LinkedList_2\obj\Debug\LinkedList_2.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Listas\LinkedLists\LinkedList_2\obj\Debug\LinkedList_2.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Listas\LinkedLists\LinkedList_2\obj\Debug\LinkedList_2.pdb

@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\Editing\obj\Debug\Editing.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\Editing\obj\Debug\Editing.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\Editing\bin\Debug\Editing.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\Editing\bin\Debug\Editing.exe
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\Editing\bin\Debug\Editing.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\Editing\obj\Debug\Editing.exe
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\Editing\obj\Debug\Editing.pdb

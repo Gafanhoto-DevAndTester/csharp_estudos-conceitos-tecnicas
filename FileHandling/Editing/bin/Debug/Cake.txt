@@ -1,0 +1,11 @@
+124,     Mercy,     20
+2011,    Katarina,    12
+121,     Joan,     56
+124,    Mercy,    20
+123,    Josy,    11
+2011,   Katarina,   12
+121,    Joan,    56
+124,   Mercy,   20
+123,   Josy,   11
+2011,  Katarina,  12
+121,   Joan,   56

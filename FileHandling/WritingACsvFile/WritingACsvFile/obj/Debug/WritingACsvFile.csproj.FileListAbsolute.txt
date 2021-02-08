@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\WritingACsvFile\WritingACsvFile\bin\Debug\WritingACsvFile.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\WritingACsvFile\WritingACsvFile\bin\Debug\WritingACsvFile.exe
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\WritingACsvFile\WritingACsvFile\bin\Debug\WritingACsvFile.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\WritingACsvFile\WritingACsvFile\obj\Debug\WritingACsvFile.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\WritingACsvFile\WritingACsvFile\obj\Debug\WritingACsvFile.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\WritingACsvFile\WritingACsvFile\obj\Debug\WritingACsvFile.exe
+C:\projetos-cs\EstudosConceitosTecnicas\FileHandling\WritingACsvFile\WritingACsvFile\obj\Debug\WritingACsvFile.pdb

@@ -1,0 +1,6 @@
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Arrays\ArraysECollections\ArraysECollections2\bin\Debug\ArraysECollections2.exe.config
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Arrays\ArraysECollections\ArraysECollections2\bin\Debug\ArraysECollections2.exe
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Arrays\ArraysECollections\ArraysECollections2\bin\Debug\ArraysECollections2.pdb
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Arrays\ArraysECollections\ArraysECollections2\obj\Debug\ArraysECollections2.csproj.CoreCompileInputs.cache
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Arrays\ArraysECollections\ArraysECollections2\obj\Debug\ArraysECollections2.exe
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Arrays\ArraysECollections\ArraysECollections2\obj\Debug\ArraysECollections2.pdb

@@ -1,0 +1,7 @@
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Metodos-Virtuais\Metodos-Virtuais\bin\Debug\Metodos-Virtuais.exe.config
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Metodos-Virtuais\Metodos-Virtuais\bin\Debug\Metodos-Virtuais.exe
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Metodos-Virtuais\Metodos-Virtuais\bin\Debug\Metodos-Virtuais.pdb
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Metodos-Virtuais\Metodos-Virtuais\obj\Debug\Metodos-Virtuais.csprojAssemblyReference.cache
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Metodos-Virtuais\Metodos-Virtuais\obj\Debug\Metodos-Virtuais.csproj.CoreCompileInputs.cache
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Metodos-Virtuais\Metodos-Virtuais\obj\Debug\Metodos-Virtuais.exe
+C:\Backup\projetos-cs\EstudosConceitosTecnicas\Metodos-Virtuais\Metodos-Virtuais\obj\Debug\Metodos-Virtuais.pdb

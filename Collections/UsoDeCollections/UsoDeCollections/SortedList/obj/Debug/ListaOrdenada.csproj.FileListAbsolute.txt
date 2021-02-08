@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\SortedList\bin\Debug\SortedList.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\SortedList\bin\Debug\SortedList.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\SortedList\bin\Debug\SortedList.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\SortedList\obj\Debug\ListaOrdenada.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\SortedList\obj\Debug\ListaOrdenada.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\SortedList\obj\Debug\SortedList.exe
+C:\projetos-cs\EstudosConceitosTecnicas\Collections\UsoDeCollections\UsoDeCollections\SortedList\obj\Debug\SortedList.pdb

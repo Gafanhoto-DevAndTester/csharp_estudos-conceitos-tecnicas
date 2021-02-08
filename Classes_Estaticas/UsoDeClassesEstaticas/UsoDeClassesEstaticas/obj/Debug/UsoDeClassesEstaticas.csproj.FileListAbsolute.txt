@@ -1,0 +1,7 @@
+C:\ProjetosC#\EstudosConceitosTecnicas\Classes_Estaticas\UsoDeClassesEstaticas\UsoDeClassesEstaticas\bin\Debug\UsoDeClassesEstaticas.exe.config
+C:\ProjetosC#\EstudosConceitosTecnicas\Classes_Estaticas\UsoDeClassesEstaticas\UsoDeClassesEstaticas\bin\Debug\UsoDeClassesEstaticas.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Classes_Estaticas\UsoDeClassesEstaticas\UsoDeClassesEstaticas\bin\Debug\UsoDeClassesEstaticas.pdb
+C:\ProjetosC#\EstudosConceitosTecnicas\Classes_Estaticas\UsoDeClassesEstaticas\UsoDeClassesEstaticas\obj\Debug\UsoDeClassesEstaticas.csprojAssemblyReference.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Classes_Estaticas\UsoDeClassesEstaticas\UsoDeClassesEstaticas\obj\Debug\UsoDeClassesEstaticas.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\EstudosConceitosTecnicas\Classes_Estaticas\UsoDeClassesEstaticas\UsoDeClassesEstaticas\obj\Debug\UsoDeClassesEstaticas.exe
+C:\ProjetosC#\EstudosConceitosTecnicas\Classes_Estaticas\UsoDeClassesEstaticas\UsoDeClassesEstaticas\obj\Debug\UsoDeClassesEstaticas.pdb

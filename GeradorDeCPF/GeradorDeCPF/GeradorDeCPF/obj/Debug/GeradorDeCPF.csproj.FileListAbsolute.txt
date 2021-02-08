@@ -1,0 +1,7 @@
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeCPF\GeradorDeCPF\GeradorDeCPF\bin\Debug\GeradorDeCPF.exe.config
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeCPF\GeradorDeCPF\GeradorDeCPF\bin\Debug\GeradorDeCPF.exe
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeCPF\GeradorDeCPF\GeradorDeCPF\bin\Debug\GeradorDeCPF.pdb
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeCPF\GeradorDeCPF\GeradorDeCPF\obj\Debug\GeradorDeCPF.csprojAssemblyReference.cache
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeCPF\GeradorDeCPF\GeradorDeCPF\obj\Debug\GeradorDeCPF.csproj.CoreCompileInputs.cache
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeCPF\GeradorDeCPF\GeradorDeCPF\obj\Debug\GeradorDeCPF.exe
+C:\projetos-cs\EstudosConceitosTecnicas\GeradorDeCPF\GeradorDeCPF\GeradorDeCPF\obj\Debug\GeradorDeCPF.pdb
